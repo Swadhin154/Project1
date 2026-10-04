@@ -1,6 +1,4 @@
 print("Hello world")
 
-a=1
-b=2
-c=a+b
-print(c)
+for i<10
+print("hello")
